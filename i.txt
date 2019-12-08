@@ -1,0 +1,22 @@
+01846177924
+	<h1 style="text-align:left;float:left;color: green;margin-left: 80px;">Title</h1> 
+<h2 style="text-align:right;float:right;">Context</h2> 
+<hr style="clear:both;"/>
+<p>This is the html section with 20 px font</p>
+
+<p class="new_font"> This is the html section with 8px font</p>
+<h1>We  don’t just</h1> 
+            <h2 >light the path</h2>
+<h4>We design, concept and develop</h4> <h5>commercial electrical solutions</h5> <h6> that illuminate your business and more importantly define the way your business shares data & communicates with customers.</h6><h7>It’s time to step into the light.</h7>
+.banner-content2 h1{
+text-align:left;
+float:left;
+color: green;
+
+}
+.banner-content2 h2{float:right;
+x;
+	text-align:right;
+
+
+}
